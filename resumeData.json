@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"Zoe Gelech",
+    "occupation":"Full Stack",
+    "description":"Web Developer with a passion for problem solving and a love for creating and crafting",
+    "image":"profilepic.jpg",
+    "bio":"Energetic and creative Web Developer with a positive attitude for team environments. Orientated towards creating healthy interpersonal dynamics by listening and communicating curiosities with questions.",
+    "contactmessage":"Do yo have vision that you'd like to see meet reality? -- Lets talk",
+    "email": "zoe.gelech@gmail.com",
+    "phone": "306-540-5656",
+    "address":{
+      "street":"42 east 59th ave",
+      "city":"Vancouver",
+      "state":"British Columbia",
+      "zip": "V5X"
+    },
+    "website": "zoeelizabith.github.io",
+    "resumedownload":"./zoe_gelech_resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/zoe-gelech-a8b41b170/",
+        "className":"fa fa-linkedin"
+      },
+
+      {
+        "name":"github",
+        "url":"http://github.com/zoeelizabeth",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Motivated to consistently refine my skills and grow in all areas of technology.",
+    "education":[
+      {
+        "school":"Lighthouse Labs",
+        "degree":"Web Development",
+        "graduated":"November 2018",
+        "description":"Fast paced bootcamp to learn industry standards for javascript based wed development."
+      },
+      {
+        "school":"Bernina Technical Certification",
+        "degree":"Electronic Sewing Machine Repair",
+        "graduated":"May 2017",
+        "description":"Learned how to repair all series of Bernina electronic sewing machine from domestic to industrial."
+      },
+      {
+        "school":"University of Regina",
+        "degree":"Bachelor's in English",
+        "graduated":"June 2015",
+        "description":"Bachelor's degree in English after pursing AP courses through highschool."
+      }
+    ],
+    "work":[
+      {
+        "company":"Igeno & Watercooler Analytics",
+        "title":"Junior Full-Stack Web Developer",
+        "years":"February 2019 - Present",
+        "description":"React, Node js, Mongo Db, stack. Creating powerful analytics for industries of all time and the occasional consulting and website rescue."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"React Native",
+        "level":"65%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"65%"
+      },
+      {
+        "name":"JQuery",
+        "level":"70%"
+      },
+      {
+        "name":"Shopify",
+        "level":"55%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Watercooler Analytics",
+        "category":"(Reskin, offline) Get access to shared analytics & benchmarking",
+        "image":"watercooler.png",
+        "url":"https://app30.watercooler.net/"
+      },
+      {
+        "title":"Satin Groves",
+        "category":"(unlaunched) Service searching for marijuana industry. Full-stack development",
+        "image":"satin.png",
+        "url":"www.satingroves.com"
+      },
+      {
+        "title":"CMI iStar",
+        "category":"React Native application aimed at concieges for shedualing and completing inspections of grounds. Front-end and android deployments.",
+        "image":"cmi.png",
+        "url":"http://test.cmi.com.s3-website-us-east-1.amazonaws.com/"
+      },
+      {
+        "title":"PRB Research Center",
+        "category":"Interactive SVG with vanilla javascript and html to help volunteers follow guidlines when discussing family planning outcomes.",
+        "image":"prb.png",
+        "url":"http://prb-family-planning.s3-website-us-east-1.amazonaws.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
